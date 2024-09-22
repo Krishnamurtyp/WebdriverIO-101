@@ -1,2 +1,2 @@
-# wdio5POC
-POC for version 5 of Webdriver IO
+# Krishna
+Samples for WebdrivrIO based test script debugging using CS Code
